@@ -1,5 +1,5 @@
 #DEMO HOSTING WEBSITE
 
-A demo hosting responsive website created using HTML5, CSS3 and JavaScript.
+A responsive demo hosting website created using HTML5, CSS3 and JavaScript.
 
  
